@@ -1,0 +1,9 @@
+{
+  "name": "নামাজ সাইলেন্টার ও সময়সূচি (Prayer Auto Silencer)",
+  "description": "৫ ওয়াক্ত নামাজের সঠিক সময়সূচি ও স্বয়ংক্রিয় ফোন সাইলেন্টার। ১০০% অফলাইন কার্যকর ও অটো লোকেশন ডিটেকশন।",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
